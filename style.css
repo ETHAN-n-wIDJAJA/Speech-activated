@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    color: #ffffff;
+    background-image:linear-gradient(#ED4C67, #B53471, #833471, #6F1E51);
+}
+#selfie-man{
+    width: 100px;
+    border-radius: 100px;
+}
+p{
+    color: #1B1464;
+    font-size: 20px;
+}
+#camera {
+    width:360px; 
+    height: 250px;
+    border:1px solid grey; 
+    }
+    #textbox{
+        width: 300px;
+    }
+#startbutton{
+    color: #0984e3;
+    background-image:linear-gradient(#81ecec, #00cec9, #55efc4, #00b894);
+    font-size: 30px;
+    border-radius: 20px;
+}
